@@ -1,0 +1,11 @@
+body {
+    background-color: #efefef;
+    color: purple;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: darkcyan;
+    font-size: 200%;
+}
